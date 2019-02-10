@@ -11,7 +11,6 @@ const MenuWrapper = styled.div`
   flex-direction: column;
   align-items: flex-start;
   justify-content: space-between;
-  background-color: #DDDDDD;
   padding-bottom: 20px;
   padding-left: 20px;
   padding-top: 20px;
@@ -22,6 +21,7 @@ const MenuItem = styled.div`
   display: flex;
   flex-direction: row;
   align-items: center;
+  padding-top: 20px;
 `
 const MenuItemsList = styled.div`
   display: flex;

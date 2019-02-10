@@ -20,7 +20,7 @@ const Navbar = styled.div`
 const Header = () => {
   return (
     <Navbar>
-      <Text size='20px'>
+      <Text color='navy' size='20px'>
         ERC721: Football players marketplace
       </Text>
     </Navbar>

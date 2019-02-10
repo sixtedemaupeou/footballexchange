@@ -25,8 +25,6 @@ const MenuLeftContainer = styled(MenuLeft)`
   position: fixed;
   width: 20%;
   height: 100%;
-  top: 0;
-  left: 0;
   z-index: 9;
 `
 const PageWrapper = styled.div`
